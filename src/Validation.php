@@ -10,4 +10,10 @@ class Validation
     {
         return isset($data[$field]);
 }
+
+    public function get()
+    {
+
+}
+
 }

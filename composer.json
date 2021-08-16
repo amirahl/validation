@@ -11,5 +11,6 @@
             "RocketValidation\\" : "src/"
         }
     },
+    "license": ["MIT"],
     "require": {}
 }

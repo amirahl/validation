@@ -1,0 +1,15 @@
+{
+    "name": "irg/validation",
+    "authors": [
+        {
+            "name": "amirali",
+            "email": "71386744+amiralihl@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RocketValidation\\" : "src/"
+        }
+    },
+    "require": {}
+}

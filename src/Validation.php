@@ -1,4 +1,4 @@
-<?php namespace RocketValidation;
+<?php namespace FormValidation;
 
 
 use http\Encoding\Stream;
